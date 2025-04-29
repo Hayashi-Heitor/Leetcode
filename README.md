@@ -6,4 +6,4 @@ My solutions to LeetCode problems in C++, Java, and Python.
 
 | # | Title | Solution | Difficulty | Tags |
 |---|-------|----------|------------|------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Scripts/Python/1.TwoSum.py)|Easy|Array, Hash Table|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Python](./Scripts/Python/1. Two Sum.py)|Easy|Array, Hash Table|
