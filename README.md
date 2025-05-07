@@ -15,6 +15,7 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python](Scripts/Python/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Python](Scripts/Python/27.%20Remove%20Element.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C](Scripts/C/58.%20Length%20of%20Last%20Word.c) |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Shell](Shell/193.%20Valid%20Phone%20Numbers.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](Shell/195.%20Tenth%20Line.sh) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](Scripts/Python/217.%20Contains%20Duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
