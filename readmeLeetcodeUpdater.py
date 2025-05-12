@@ -45,7 +45,12 @@ def writesReadme(question):
     with open("README.md", 'w') as ReadmeFile:
         for line in content: #reads all lines
             ReadmeFile.write(line)
+
             if TABLE_START == line.strip(): #compares the current line with the start of the table
+
+                if line[-1] == TABLE_START[-1]: #checks if there is a line break after the start of the table
+                    ReadmeFile.write("\n")
+
                 for num, data in question.items(): #writes all the questions on the readme
                         ReadmeFile.writelines(f"| {num} | [{data["questionName"]}]({data["questionLink"]}) | [{data["questionLanguage"]}]({data["questionPath"]}) |\n")
                         message(f"\033[32mwritten: \033[37m{data["questionNumber"]}. {data["questionName"]}")
@@ -53,5 +58,5 @@ def writesReadme(question):
                 
 
 if __name__ == "__main__":
-    print("\033[33mReadme Leetcode Updater V1.0.1\033[0m", end="\n\n")
+    print("\033[33mReadme Leetcode Updater V1.0.2\033[0m", end="\n\n")
     writesReadme(readsAllFiles())
