@@ -26,4 +26,5 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [C](Scripts/C/1920.%20Build%20Array%20from%20Permutation.c) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [C](Scripts/C/1929.%20Concatenation%20of%20Array.c) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [C](Scripts/C/2235.%20Add%20Two%20Integers.c) |
+| 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Python](Scripts/Python/2956.%20Find%20Common%20Elements%20Between%20Two%20Arrays.py) |
 | 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | [Python](Scripts/Python/3289.%20The%20Two%20Sneaky%20Numbers%20of%20Digitville.py) |
