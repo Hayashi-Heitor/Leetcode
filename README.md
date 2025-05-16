@@ -18,6 +18,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Python](Scripts/Python/66.%20Plus%20One.py) |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Shell](Shell/193.%20Valid%20Phone%20Numbers.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](Shell/195.%20Tenth%20Line.sh) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [C](Scripts/C/202.%20Happy%20Number.c) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](Scripts/Python/217.%20Contains%20Duplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
