@@ -8,6 +8,7 @@
 |---|-------|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](Scripts/Python/1.%20Two%20Sum.py) |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](Scripts/Python/2.%20Add%20Two%20Numbers.py) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](Scripts/Python/3.%20Longest%20Substring%20Without%20Repeating%20Characters.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [C](Scripts/C/9.%20Palindrome%20Number.c) |
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [Python](Scripts/Python/12.%20Integer%20to%20Roman.py) |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](Scripts/Python/13.%20Roman%20to%20Integer.py) |
