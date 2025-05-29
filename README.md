@@ -25,6 +25,7 @@
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number) | [C](Scripts/C/202.%20Happy%20Number.c) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [Python](Scripts/Python/206.%20Reverse%20Linked%20List.py) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Python](Scripts/Python/217.%20Contains%20Duplicate.py) |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [C](Scripts/C/237.%20Delete%20Node%20in%20a%20Linked%20List.c) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
