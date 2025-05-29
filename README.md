@@ -20,6 +20,7 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Python](Scripts/Python/27.%20Remove%20Element.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [C](Scripts/C/58.%20Length%20of%20Last%20Word.c) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Python](Scripts/Python/66.%20Plus%20One.py) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [C](Scripts/C/83.%20Remove%20Duplicates%20from%20Sorted%20List.c) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [C](Scripts/C/141.%20Linked%20List%20Cycle.c) |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) | [Shell](Shell/193.%20Valid%20Phone%20Numbers.sh) |
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line) | [Shell](Shell/195.%20Tenth%20Line.sh) |
