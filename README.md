@@ -31,6 +31,7 @@
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Python](Scripts/Python/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1's-after-deleting-one-element) | [Python](Scripts/Python/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Python](Scripts/Python/1512.%20Number%20of%20Good%20Pairs.py) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Python](Scripts/Python/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py) |
