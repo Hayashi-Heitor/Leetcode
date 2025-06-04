@@ -21,11 +21,14 @@ def readsAllFiles():
     question = {}
 
     for language, path in DIRECTORYS.items():
-        if not os.path.exists(path): #checks if the path exists
+        
+        # Checks if the path exists
+        if not os.path.exists(path): 
             message(f"\033[31mcan't find path passed on DIRECTORYS: {path}\033[37m")
             break
         
-        for file in os.listdir(path): #passes all files informations to questions dictionarys
+        # Passes all files informations to questions dictionarys
+        for file in os.listdir(path): 
             questionNumber = file.split('.')[0]
             question[questionNumber] = {
                 "questionNumber" : questionNumber,
@@ -36,7 +39,8 @@ def readsAllFiles():
             }
             message(f"\033[32mread: \033[37m{question[questionNumber]["questionNumber"]}. {question[questionNumber]["questionName"]}")
     
-    return dict(sorted(question.items(), key = lambda x: int(x[0]))) #returns the sorted dictonary
+    # Returns the sorted dictonary
+    return dict(sorted(question.items(), key = lambda x: int(x[0]))) 
 
 def writesReadme(question):
     with open("README.md", 'r') as ReadmeFile:
@@ -46,12 +50,15 @@ def writesReadme(question):
         for line in content: #reads all lines
             ReadmeFile.write(line)
 
-            if TABLE_START == line.strip(): #compares the current line with the start of the table
+            # Compares the current line with the start of the table
+            if TABLE_START == line.strip(): 
 
-                if line[-1] == TABLE_START[-1]: #checks if there is a line break after the start of the table
+                # Checks if there is a line break after the start of the table
+                if line[-1] == TABLE_START[-1]: 
                     ReadmeFile.write("\n")
 
-                for num, data in question.items(): #writes all the questions on the readme
+                # Writes all the questions on the readme
+                for num, data in question.items(): 
                         ReadmeFile.writelines(f"| {num} | [{data["questionName"]}]({data["questionLink"]}) | [{data["questionLanguage"]}]({data["questionPath"]}) |\n")
                         message(f"\033[32mwritten: \033[37m{data["questionNumber"]}. {data["questionName"]}")
                 break
