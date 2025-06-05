@@ -32,6 +32,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](Scripts/Python/283.%20Move%20Zeroes.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](Scripts/Python/345.%20Reverse%20Vowels%20of%20a%20String.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](Scripts/Python/605.%20Can%20Place%20Flowers.py) |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Python](Scripts/Python/724.%20Find%20Pivot%20Index.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Python](Scripts/Python/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) |
