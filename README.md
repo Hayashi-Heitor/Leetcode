@@ -35,6 +35,7 @@
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Python](Scripts/Python/334.%20Increasing%20Triplet%20Subsequence.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](Scripts/Python/345.%20Reverse%20Vowels%20of%20a%20String.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Python](Scripts/Python/392.%20Is%20Subsequence.py) |
+| 443 | [String Compression](https://leetcode.com/problems/string-compression) | [Python](Scripts/Python/443.%20String%20Compression.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](Scripts/Python/605.%20Can%20Place%20Flowers.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Python](Scripts/Python/724.%20Find%20Pivot%20Index.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
