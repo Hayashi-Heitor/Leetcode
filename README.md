@@ -32,6 +32,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Python](Scripts/Python/238.%20Product%20of%20Array%20Except%20Self.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](Scripts/Python/283.%20Move%20Zeroes.py) |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Python](Scripts/Python/334.%20Increasing%20Triplet%20Subsequence.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](Scripts/Python/345.%20Reverse%20Vowels%20of%20a%20String.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Python](Scripts/Python/392.%20Is%20Subsequence.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](Scripts/Python/605.%20Can%20Place%20Flowers.py) |
