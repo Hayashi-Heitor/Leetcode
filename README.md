@@ -37,6 +37,7 @@
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Python](Scripts/Python/392.%20Is%20Subsequence.py) |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | [Python](Scripts/Python/443.%20String%20Compression.py) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](Scripts/Python/605.%20Can%20Place%20Flowers.py) |
+| 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [Python](Scripts/Python/643.%20Maximum%20Average%20Subarray%20I.py) |
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | [Python](Scripts/Python/724.%20Find%20Pivot%20Index.py) |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
