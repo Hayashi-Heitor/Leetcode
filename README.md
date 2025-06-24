@@ -32,6 +32,7 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Python](Scripts/Python/238.%20Product%20of%20Array%20Except%20Self.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Python](Scripts/Python/242.%20Valid%20Anagram.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Python](Scripts/Python/283.%20Move%20Zeroes.py) |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | [C](Scripts/C/328.%20Odd%20Even%20Linked%20List.c) |
 | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | [Python](Scripts/Python/334.%20Increasing%20Triplet%20Subsequence.py) |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [Python](Scripts/Python/345.%20Reverse%20Vowels%20of%20a%20String.py) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [Python](Scripts/Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) |
