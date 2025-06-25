@@ -3,13 +3,15 @@ import os
 DIRECTORYS = {
     "C" : "Scripts/C",
     "Python" : "Scripts/Python",
-    "Shell" : "Shell"
+    "Shell" : "Shell",
+    "MySQL" : "Sql"
 }
 
 EXTENSIONS = {
     "C" : ".c",
     "Python" : ".py",
-    "Shell" : ".sh"
+    "Shell" : ".sh",
+    "MySQL" : ".sql"
 }
 
 TABLE_START = "|---|-------|----------|"
