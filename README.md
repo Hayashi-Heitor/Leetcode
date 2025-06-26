@@ -56,6 +56,7 @@
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [Python](Scripts/Python/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py) |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1's-after-deleting-one-element) | [Python](Scripts/Python/1493.%20Longest%20Subarray%20of%201's%20After%20Deleting%20One%20Element.py) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | [Python](Scripts/Python/1512.%20Number%20of%20Good%20Pairs.py) |
+| 1581 | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | [MySQL](Sql/1581.%20Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql) |
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | [Python](Scripts/Python/1679.%20Max%20Number%20of%20K-Sum%20Pairs.py) |
 | 1683 | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets) | [MySQL](Sql/1683.%20Invalid%20Tweets.sql) |
 | 1684 | [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings) | [Python](Scripts/Python/1684.%20Count%20the%20Number%20of%20Consistent%20Strings.py) |
