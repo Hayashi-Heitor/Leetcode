@@ -38,6 +38,7 @@
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [Python](Scripts/Python/374.%20Guess%20Number%20Higher%20or%20Lower.py) |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | [Python](Scripts/Python/392.%20Is%20Subsequence.py) |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression) | [Python](Scripts/Python/443.%20String%20Compression.py) |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [MySQL](Sql/584.%20Find%20Customer%20Referee.sql) |
 | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | [Python](Scripts/Python/605.%20Can%20Place%20Flowers.py) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) | [Python](Scripts/Python/643.%20Maximum%20Average%20Subarray%20I.py) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python](Scripts/Python/704.%20Binary%20Search.py) |
