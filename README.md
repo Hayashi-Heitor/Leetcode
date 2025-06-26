@@ -48,6 +48,7 @@
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Python](Scripts/Python/1004.%20Max%20Consecutive%20Ones%20III.py) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Python](Scripts/Python/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) |
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [MySQL](Sql/1148.%20Article%20Views%20I.sql) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Python](Scripts/Python/1207.%20Unique%20Number%20of%20Occurrences.py) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [Python](Scripts/Python/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies.py) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) | [Python](Scripts/Python/1456.%20Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length.py) |
