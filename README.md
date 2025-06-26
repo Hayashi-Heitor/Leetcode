@@ -47,6 +47,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Python](Scripts/Python/771.%20Jewels%20and%20Stones.py) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [C](Scripts/C/876.%20Middle%20of%20the%20Linked%20List.c) |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | [Python](Scripts/Python/1004.%20Max%20Consecutive%20Ones%20III.py) |
+| 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [MySQL](Sql/1068.%20Product%20Sales%20Analysis%20I.sql) |
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [Python](Scripts/Python/1071.%20Greatest%20Common%20Divisor%20of%20Strings.py) |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | [MySQL](Sql/1148.%20Article%20Views%20I.sql) |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) | [Python](Scripts/Python/1207.%20Unique%20Number%20of%20Occurrences.py) |
