@@ -66,6 +66,7 @@
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation) | [C](Scripts/C/1920.%20Build%20Array%20from%20Permutation.c) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | [C](Scripts/C/1929.%20Concatenation%20of%20Array.c) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [Python](Scripts/Python/2095.%20Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.py) |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [Python](Scripts/Python/2130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List.py) |
 | 2215 | [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays) | [Python](Scripts/Python/2215.%20Find%20the%20Difference%20of%20Two%20Arrays.py) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | [C](Scripts/C/2235.%20Add%20Two%20Integers.c) |
 | 2956 | [Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays) | [Python](Scripts/Python/2956.%20Find%20Common%20Elements%20Between%20Two%20Arrays.py) |
